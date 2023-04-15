@@ -1,2 +1,2 @@
 # Portfolio
- Portfolio using React and Tailwind CSS
+ Portfolio using React,TypeScript and Tailwind CSS
